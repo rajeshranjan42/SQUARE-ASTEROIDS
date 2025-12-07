@@ -73,11 +73,6 @@ A retro arcade game with neon aesthetics, inspired by the classic Asteroids, rei
 
 Created and powered by **Rajesh Ranjan**
 
-## License
-
-[Choose your license - e.g., MIT, GPL, etc.]
-
----
 
 ## Game Stats
 
